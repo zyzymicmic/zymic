@@ -1,0 +1,2 @@
+# zymic
+Hexo blog
